@@ -285,17 +285,13 @@ try {
 
 ```
 <font color=red>**虽然安装完后它会自动失效，但为了安全请删除 rm /var/www/yourls/admin/install.php**</font>
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428085315428-1491150984.png)
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428091809652-84846805.png)
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428091936159-1864306723.png)
-
-
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/1.png)
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/2.png)
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/3.png)
 
 # 获取 Signature Token
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428092121832-357039159.png)
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428092534162-1400047696.png)
-
-
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/4.png)
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/5.png)
 
 
 
@@ -493,10 +489,8 @@ https://repo.almalinux.org/almalinux/10/BaseOS/x86_64/os/Packages/rpm-4.19.1.1-2
 
 
 ```
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428184439464-1903229466.png)
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428184507558-40322804.png)
-
-
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/6.png)
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/7.png)
 
 
 
@@ -600,11 +594,9 @@ function copyIt(text) {
 
 
 ```
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428184531927-1311788972.png)
-
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/8.png)
 
 
 
 # 后台数据
-![image](https://img2024.cnblogs.com/blog/1139005/202604/1139005-20260428184650494-1726434778.png)
-
+![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/9.png)
