@@ -1,5 +1,3 @@
-[toc]
-
 # 基本设置
 ```shell
 # 换源
@@ -599,4 +597,4 @@ function copyIt(text) {
 
 
 # 后台数据
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/9.png)
+![image]images/9.png)
