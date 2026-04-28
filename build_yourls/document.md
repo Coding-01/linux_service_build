@@ -283,13 +283,13 @@ try {
 
 ```
 <font color=red>**虽然安装完后它会自动失效，但为了安全请删除 rm /var/www/yourls/admin/install.php**</font>
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/1.png)
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/2.png)
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/3.png)
+![image](images/1.png)
+![image](images/2.png)
+![image](images/3.png)
 
 # 获取 Signature Token
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/4.png)
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/5.png)
+![image](images/4.png)
+![image](images/5.png)
 
 
 
@@ -487,8 +487,8 @@ https://repo.almalinux.org/almalinux/10/BaseOS/x86_64/os/Packages/rpm-4.19.1.1-2
 
 
 ```
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/6.png)
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/7.png)
+![image](images/6.png)
+![image](images/7.png)
 
 
 
@@ -592,7 +592,7 @@ function copyIt(text) {
 
 
 ```
-![image]https://github.com/Coding-01/linux_service_build/blob/main/build_yourls/images/8.png)
+![image](images/8.png)
 
 
 
